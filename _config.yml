@@ -84,7 +84,7 @@ author:
   avatar           : "profile.JPG"
   bio              : "Future Data Scientist"
   location         : "Berkeley, California"
-  employer         : "UC Berkeley"
+  employer         : 
   googlescholar    : 
   email            : "fmcquarrie3@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/franciemcquarrie/"
+  linkedin         : "franciemcquarrie"
   orcid            : 
   pinterest        :
   soundcloud       :
