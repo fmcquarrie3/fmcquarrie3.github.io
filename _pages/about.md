@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello there!
 
-![alt text](../images/sf_me_pic.JPG, "Francie")
+![alt text](../images/sf_me_pic.JPG "Francie")
 
 Hello! I'm Frances McQuarrie, but I prefer to go by Francie.   
 
