@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there!
+Hello! I'm Frances McQuarrie, but I prefer to go by Francie. 
 
 ![alt text](../images/sf_me_pic.JPG "Francie")
-
-Hello! I'm Frances McQuarrie, but I prefer to go by Francie.   
 
 I am a third year undergraduate at the University of California, Berkeley working towards a Statistics major and Computer Science minor.   
 
