@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![picture](https://github.com/fmcquarrie3/fmcquarrie3.github.io/tree/master/images/sf_me_pic.JPG, "Francie")
+![alt text](../images/sf_me_pic.JPG, "Francie")
 
 Hello! I'm Frances McQuarrie, but I prefer to go by Francie.   
 

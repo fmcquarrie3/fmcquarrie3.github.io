@@ -1,7 +1,7 @@
 ---
 title: "STAT/CS/INFO C8: Foundations of Data Science"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/data8_ugsi
 venue: "University of California at Berkeley, Department of Statistics"
 date: 2017-08-01
@@ -10,8 +10,9 @@ location: "Berkeley, California"
 
 I have been an undergraduate student instructor (UGSI) for STAT/CS/INFO C8 (commonly referred to as Data8) for the following semesters:
 * Fall 2017, taught by [John Denero](denero.org) and [David Wagner](http://people.eecs.berkeley.edu/~daw/)
-* Spring 2018, taught by Ani Adhikari(https://www.stat.berkeley.edu/~ani/)
+* Spring 2018, taught by [Ani Adhikari](https://www.stat.berkeley.edu/~ani/)
 * Fall 2018, taught by [David Wagner](http://people.eecs.berkeley.edu/~daw/) and [Ramesh Sridharan](https://people.csail.mit.edu/rameshvs/)
+* Spring 2019, taught by [Ani Adhikari](https://www.stat.berkeley.edu/~ani/) and [Will Fithian](https://www.stat.berkeley.edu/~wfithian/)
 
 As a UGSI, my duties include:
  * Leading a two-hour lab session, which consists of a discussion worksheet
