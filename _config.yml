@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francie McQuarrie"
 title_separator          : "-"
 name                     : &name "Francie McQuarrie"
-description              : &description "Data Science enthusiast and Data8 UGSI at UC Berkeley"
+description              : &description "Statistics & Data enthusiast"
 url                      : https://fmcquarrie3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fmcquarrie3.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Francie McQuarrie"
-  avatar           : "profile.JPG"
-  bio              : "Data Science enthusiast and Data8 UGSI at UC Berkeley"
-  location         : "Berkeley, California"
+  avatar           : "new_profile_su20.JPG"
+  bio              : "Statistics & Data enthusiast"
+  location         : "Seattle, Washington"
   employer         : 
   googlescholar    : 
-  email            : "fmcquarrie3@berkeley.edu"
+  email            : "franciem@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
