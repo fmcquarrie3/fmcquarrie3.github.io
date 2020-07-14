@@ -1,11 +1,9 @@
 # main links links
 main:
   - title: "Teaching"
-    url: /teaching/ 
-
-  - title: "Research"
-    url: /research     
+    url: /teaching/    
     
   - title: "CV"
     url: /files/mcquarrie_cv_7_9_20.pdf
+
     
